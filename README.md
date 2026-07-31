@@ -117,8 +117,4 @@ Gerçek: Ayrılır (1)       2 (False Neg)      12 (True Pos)
 
 ---
 
-## 📧 Ödev Teslim Bilgileri
 
-- **Alıcı:** `info@turkiyeyapayzekaakademisi.com`
-- **E-posta Konusu:** `Makine Öğrenmesi Ara Ödev – Ad Soyad`
-- **İçerik:** GitHub repository linki ve proje özeti.
